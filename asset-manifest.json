@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "https://stocky37.github.io/epicseven-tools/static/js/main.f61df1e8.chunk.js",
+    "main.js.map": "https://stocky37.github.io/epicseven-tools/static/js/main.f61df1e8.chunk.js.map",
+    "runtime~main.js": "https://stocky37.github.io/epicseven-tools/static/js/runtime~main.9017f104.js",
+    "runtime~main.js.map": "https://stocky37.github.io/epicseven-tools/static/js/runtime~main.9017f104.js.map",
+    "static/js/2.b660f172.chunk.js": "https://stocky37.github.io/epicseven-tools/static/js/2.b660f172.chunk.js",
+    "static/js/2.b660f172.chunk.js.map": "https://stocky37.github.io/epicseven-tools/static/js/2.b660f172.chunk.js.map",
+    "index.html": "https://stocky37.github.io/epicseven-tools/index.html",
+    "precache-manifest.f4a3cccfc6ea29e437af336b70301072.js": "https://stocky37.github.io/epicseven-tools/precache-manifest.f4a3cccfc6ea29e437af336b70301072.js",
+    "service-worker.js": "https://stocky37.github.io/epicseven-tools/service-worker.js"
+  }
+}
